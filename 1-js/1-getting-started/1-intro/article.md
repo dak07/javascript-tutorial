@@ -30,7 +30,7 @@ Different engines have different "codenames", for example:
 
 These terms above are good to remember, because they are used in developer articles in the internet. We'll use them too. For instance, if "a feature X is supported by V8", then it probably works in Chrome and Opera.
 
-```smart header="How the engines work?"
+```smart header="How do the engines work?"
 
 Engines are complicated. But the basics are easy.
 
